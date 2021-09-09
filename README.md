@@ -1,3 +1,3 @@
 # ICS3U-Unit1-02-CPP
 
-[![GitHub's Super Linter](https://github.com/Rohnin-Barrette/ICS3U-Unit-01-Python-Hello_World/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Rohnin-Barrette/ICS3U-Unit-01-Python-Hello_World/actions)
+[![GitHub's Super Linter](https://github.com/Rohnin-Barrette/ICS3U-Unit1-02-CPP/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Rohnin-Barrette/ICS3U-Unit1-02-CPP/actions)
